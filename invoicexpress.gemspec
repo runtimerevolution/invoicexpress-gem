@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   #spec.add_development_dependency "rspec"
   #spec.add_development_dependency "rspec-rails"
 
-  spec.add_dependency 'faraday', '~> 0.8'
-  spec.add_dependency 'faraday_middleware', '~> 0.9'
-  spec.add_dependency 'happymapper', '~> 0.4'
+  spec.add_dependency 'faraday'
+  spec.add_dependency 'faraday_middleware'
+  spec.add_dependency 'happymapper'
 end
